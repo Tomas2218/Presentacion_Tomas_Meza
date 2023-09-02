@@ -1,2 +1,2 @@
-# Presentacion Tomas Meza
+# Tomas Meza
 Esta es mi presentación personal para paradigmas de programación
